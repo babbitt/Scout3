@@ -7,4 +7,4 @@ Well this is version .0001 (super-alpha) which means this won't be released for 
 
 ##Log
 #####Every commit is a new version number, hence the very small version #'s.
-    - **V .0001** (Initial Commit) Got homepage put together. Added Skeleton css backbone. **3/22/16**
+**V .0001** (Initial Commit) Got homepage put together. Added Skeleton css backbone. **3/22/16**
