@@ -52,7 +52,7 @@
     - A label for the input can be made by passing the `label="xxx"`
     - The values can be read as soon as the user stops or pauses the timer using the Scout3 variable
     - Timers can also be triggered by tapping the number that it being displayed. Tap once to start. Tap again to stop
-- Clases:
+- Classes:
 - 
     - If you add a class to the Scout3 version of the tag the generated tag will also have those effects due to inheritance
     - If you only want to target a spefic part of the `Scout3` tag children then use [css selectors](http://www.w3schools.com/cssref/css_selectors.asp)
