@@ -37,4 +37,6 @@ Go read them over at the [Wiki](https://github.com/josephbabbitt/Scout3/wiki)
 **V .0001** (Initial Commit) Got homepage put together. **3/22/16**
 **V .0002** Some basic components (Input, Screen) and basic framework **3/28/16**
 **V .0003** Added timer element **4/15/16**
-<a href="http://joebabbitt.com"><img src="http://joebabbitt.com/img/CodeAvatar.jpg" style="height: 3.6rem; width: 3.6rem;"/></a>
+
+
+<br><a href="http://joebabbitt.com"><img src="http://joebabbitt.com/img/CodeAvatar.jpg" height="50rem" width="50rem"/></a>
